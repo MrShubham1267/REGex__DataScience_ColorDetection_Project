@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/72594576/119255119-8e9dc880-bbd7-11eb-9cdd-83f3ad861b56.mp4
-
 # REGex Software 
 ## Color Detection image Project
 
