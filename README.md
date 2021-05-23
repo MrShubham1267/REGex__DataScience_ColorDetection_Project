@@ -40,5 +40,5 @@
 
 ## 🎯 Demo
 ```
-!(https://github.com/MrShubham1267/REGex__DataScience_ColorDetectionProject/blob/main/Color%20Detection%20Project/demo.gif)
+![](https://github.com/MrShubham1267/REGex__DataScience_ColorDetectionProject/blob/main/Color%20Detection%20Project/demo.gif)
 
