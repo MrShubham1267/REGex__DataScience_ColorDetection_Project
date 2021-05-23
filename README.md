@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/72594576/119255119-8e9dc880-bbd7-11eb-9cdd-83f3ad861b56.mp4
+
 # REGex Software 
 ## Color Detection image Project
 
@@ -40,6 +43,8 @@
 
 ## 🎯 Demo
 
-https://user-images.githubusercontent.com/72594576/119255091-6d3cdc80-bbd7-11eb-8f20-3cb0680ba771.mp4
+https://user-images.githubusercontent.com/72594576/119255125-952c4000-bbd7-11eb-8ea6-a3aba59a9d5e.mp4
+
+
 
 
