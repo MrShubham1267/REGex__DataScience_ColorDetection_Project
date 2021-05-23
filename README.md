@@ -40,6 +40,6 @@
 
 ## 🎯 Demo
 ```
-![](https://github.com/MrShubham1267/REGex__DataScience_ColorDetectionProject/blob/main/Color%20Detection%20Project/demo.gif)
-![pose_with_action](https://github.com/MrShubham1267/REGex__DataScience_ColorDetectionProject/blob/main/Color%20Detection%20Project/demo.gif)
+https://user-images.githubusercontent.com/72594576/119255091-6d3cdc80-bbd7-11eb-8f20-3cb0680ba771.mp4
+
 
